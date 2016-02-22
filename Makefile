@@ -1,5 +1,3 @@
-export ROOT_DIR=/home/gar/Repos/mixrank
-export THEOS=${ROOT_DIR}/etc/theos
 export THEOS_PORT=22
 caml_CFLAGS=-std=c++11
 # Remeber to do this for the compiler
